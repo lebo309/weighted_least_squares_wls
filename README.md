@@ -1,5 +1,6 @@
 # weighted_least_squares_wls
-Analysis and comparison of Weighted Least Squares (WLS) and Ordinary Least Squares (OLS). Covers heteroscedasticity, Feasible WLS, Huber robust regression, and validates methods with a Monte Carlo simulation
+
+Weighted Least Squares (WLS) and Ordinary Least Squares (OLS). Covers heteroscedasticity, Feasible WLS, Huber robust regression, and validates methods with a Monte Carlo simulation
 
 ## Overview
 This project presents an in-depth analysis of **Weighted Least Squares (WLS)** regression, comparing it with **Ordinary Least Squares (OLS)** and alternative estimation methods in the presence of heteroscedasticity. Through systematic implementation, diagnostic evaluation, and empirical validation, this project provides a comprehensive understanding of regression techniques for heteroscedastic data.
@@ -150,5 +151,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # Note
 
-This notebook is designed for educational and research purposes. Real-world applications may require additional considerations and validation.
+This notebook is designed for educational and research purposes.
+Real-world applications may require additional considerations and validation.
 
